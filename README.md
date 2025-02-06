@@ -11,7 +11,7 @@
 ✍️ &nbsp;No meu tempo livre, gosto de acompanhar produtores de conteúdo de tecnologia e design.\
 💬 &nbsp;Sinta-se à vontade para entrar em contato comigo! 
 
-### 🛠 &nbsp; Stack
+### 🛠 &nbsp; Linguagens e Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
