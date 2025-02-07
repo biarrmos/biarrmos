@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff52c8&height=120&section=header"/>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE86DF&center=true&vCenter=true&width=450&lines=Ol%C3%A1%2C+me+chamo+Bia+Ramos;Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
@@ -38,5 +40,7 @@
 <a href="https://www.linkedin.com/in/ana-beatriz-ramos-de-luca-a0722026a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:beatriz.ramosdeluca@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
+
 
 
