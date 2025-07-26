@@ -7,9 +7,8 @@
 ### 👨🏻‍💻 &nbsp;Sobre mim
 
 💡 &nbsp;Gosto de explorar novas tecnologias e criar soluções práticas para o dia a dia.\
-🎓 &nbsp;Atualmente, sou caloura de Tecnologia em Sistemas de Computação na Universidade Federal Fluminense 
-    e sou estudante de programação com foco em desenvolvimento Fullstack na Vai Na Web.\
-🌱 &nbsp;Estou focada em aprender mais sobre os frameworks React.js e Django, Inteligência Artifical e Machine Learning. \
+🎓 &nbsp;Atualmente, sou estudante de Tecnologia em Sistemas de Computação na Universidade Federal Fluminense.\
+🌱 &nbsp;Estou focada em aprender mais sobre os frameworks React.js e Flask. \
 ✍️ &nbsp;No meu tempo livre, gosto de acompanhar produtores de conteúdo de tecnologia e design.\
 💬 &nbsp;Sinta-se à vontade para entrar em contato comigo! 
 
@@ -18,7 +17,6 @@
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
